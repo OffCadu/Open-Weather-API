@@ -1,0 +1,38 @@
+/*estilizações de tags*/
+
+body{
+    background: url('../icons/background.jpg')no-repeat;
+    background-size: cover;
+}
+
+/*estilizações de classes*/
+
+#home{
+    margin-top: 20px;
+}
+
+.city{
+    font-size: 24px;
+}
+
+.date{
+    font-size: 16px;
+}
+
+.container-temp{
+    font-size: 50px;
+    font-weight: 600;
+    text-shadow: 3px 6px rgba(0,0,0,0.2);
+}
+
+.weather{
+    font-size: 24px;
+}
+
+
+.low-high{
+    font-size: 20px;
+}
+
+
+
